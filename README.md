@@ -1,3 +1,3 @@
-Self learning of OpenCV
-Including four modules practice and five projects
+Self learning of OpenCV, 
+including four modules practice and five projects
 
